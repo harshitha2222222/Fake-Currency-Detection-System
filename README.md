@@ -51,11 +51,6 @@ Fake-Currency-Detection-System
 4. CNN classification  
 5. Output: Real or Fake with confidence score  
 
-## Installation
-Clone repo and install dependencies:
-git clone https://github.com/yourusername/Fake-Currency-Detection-System.git  
-cd Fake-Currency-Detection-System  
-pip install -r requirements.txt  
 
 ## Usage
 Run prediction script:
